@@ -12,7 +12,7 @@ Passionate about building modern web applications, solving real-world problems, 
 
 🎓 **Software Engineering** Student
 
-💡 Passionate about **Web Development, UI/UX Design, Problem Solving, and Artificial Intelligence**
+💡 Passionate about **Web Development, Problem Solving, and Artificial Intelligence**
 
 🌱 Currently learning:
 
