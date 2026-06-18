@@ -110,6 +110,8 @@ A responsive informational website dedicated to Nobel Prize winners, categories,
 
 🐙 GitHub: https://github.com/syedamishaa
 
+💼 LinkedIn:www.linkedin.com/in/syeda-mishaa
+
 ---
 
 ## 💡 Developer Quote
