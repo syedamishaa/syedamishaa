@@ -1,4 +1,4 @@
-# Hi there, I'm Misbah Yameen 👋
+# Hi there, I'm Syeda Mishaa 👋
 
 <h3 align="center">💻 Aspiring Full Stack Web Developer | Software Engineering  Student</h3>
 
